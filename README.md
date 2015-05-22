@@ -10,5 +10,7 @@ and maybe I will add some new features.
 Как-то друг попросил меня сделать нечто подобное и вот что из этого получилось.
 Внимание! версия очень сырая! если кому-то сильно понадобиться - пишите, может быть добавлю новых функций.
 
+[![youtube](http://img.youtube.com/vi/Kxbq6Q9tVSg/0.jpg)](https://www.youtube.com/watch?v=Kxbq6Q9tVSg)
+
 <sub>tags: create a video with a messenger, программа для создаиня видео с мессенджером,
 программа для создания видео с вк сообщениями</sub>
