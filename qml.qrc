@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>VkMessage.qml</file>
+        <file>Panel.qml</file>
+        <file>MessageDelegate.qml</file>
+        <file>TextDelegate.qml</file>
+    </qresource>
+</RCC>
